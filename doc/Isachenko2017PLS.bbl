@@ -1,0 +1,138 @@
+\begin{thebibliography}{10}
+
+\bibitem{katrutsa2015qpfs}
+AM~Katrutsa and VV~Strijov.
+\newblock Stress test procedure for feature selection algorithms.
+\newblock {\em Chemometrics and Intelligent Laboratory Systems}, 142:172--183,
+  2015.
+
+\bibitem{li2016feature}
+Jundong Li, Kewei Cheng, Suhang Wang, Fred Morstatter, Robert~P Trevino,
+  Jiliang Tang, and Huan Liu.
+\newblock Feature selection: A data perspective.
+\newblock {\em arXiv preprint arXiv:1601.07996}, 2016.
+
+\bibitem{wegelin2000survey}
+Jacob~A Wegelin et~al.
+\newblock A survey of partial least squares (pls) methods, with emphasis on the
+  two-block case.
+\newblock {\em University of Washington, Department of Statistics, Tech. Rep},
+  2000.
+
+\bibitem{abdi2003pls}
+Herv{\'{e}} Abdi.
+\newblock {Partial Least Squares (PLS) Regression}.
+\newblock {\em Encyclopedia for research methods for the social sciences},
+  pages 792--795, 2003.
+
+\bibitem{geladi1986partial}
+Paul Geladi and Bruce~R Kowalski.
+\newblock Partial least-squares regression: a tutorial.
+\newblock {\em Analytica chimica acta}, 185:1--17, 1986.
+
+\bibitem{geladi1988pls}
+Paul Geladi.
+\newblock {Notes on the history and nature of partial least squares (PLS)
+  modelling}.
+\newblock {\em Journal of Chemometrics}, 2(January):231--246, 1988.
+
+\bibitem{hoskuldsson1988plsr}
+Agnar H{\"{o}}skuldsson.
+\newblock {PLS regression.}
+\newblock {\em Journal of Chemometrics}, 2(August 1987):581--591, 1988.
+
+\bibitem{de1993simpls}
+Sijmen De~Jong.
+\newblock Simpls: an alternative approach to partial least squares regression.
+\newblock {\em Chemometrics and intelligent laboratory systems},
+  18(3):251--263, 1993.
+
+\bibitem{rosipal2006overview}
+Roman Rosipal and Nicole Kramer.
+\newblock {Overview and Recent Advances in Partial Least Squares}.
+\newblock {\em C. Saunders et al. (Eds.): SLSFS 2005, LNCS 3940}, pages 34--51,
+  2006.
+
+\bibitem{rosipal2011npls}
+Roman Rosipal.
+\newblock {Nonlinear partial least squares: An overview}.
+\newblock {\em Chemoinformatics and Advanced Machine Learning Perspectives:
+  Complex Computational Methods and Collaborative Techniques}, pages 169--189,
+  2011.
+
+\bibitem{wold1989nonlinear}
+Svante Wold, Nouna Kettaneh-Wold, and Bert Skagerberg.
+\newblock Nonlinear pls modeling.
+\newblock {\em Chemometrics and Intelligent Laboratory Systems}, 7(1-2):53--65,
+  1989.
+
+\bibitem{frank1990npls}
+Ildiko~E. Frank.
+\newblock {A nonlinear PLS model}.
+\newblock {\em Chemometrics and Intelligent Laboratory Systems}, 8(2):109--119,
+  1990.
+
+\bibitem{qin1992npls}
+S~Joe Qin and Thomas~J McAvoy.
+\newblock Nonlinear pls modeling using neural networks.
+\newblock {\em Computers \& Chemical Engineering}, 16(4):379--391, 1992.
+
+\bibitem{yan2003geneticpls}
+Xuefeng~F. Yan, Dezhao~Z. Chen, and Shangxu~X. Hu.
+\newblock {Chaos-genetic algorithms for optimizing the operating conditions
+  based on RBF-PLS model}.
+\newblock {\em Computers and Chemical Engineering}, 27(10):1393--1404, 2003.
+
+\bibitem{hiden1998geneticpls}
+Hugo Hiden, Ben McKay, Mark Willis, and Gary Montague.
+\newblock Non-linear partial least squares using genetic.
+\newblock In {\em Genetic Programming 1998: Proceedings of the Third}, pages
+  128--133. Morgan Kaufmann, 1998.
+
+\bibitem{neurotycho}
+Project tycho
+  \href{http://neurotycho.org/food-tracking-task}{http://neurotycho.org/food-tracking-task}.
+
+\bibitem{millan2010combining}
+Jos{\'e} del~R Mill{\'a}n, R{\"u}diger Rupp, Gernot Mueller-Putz, Roderick
+  Murray-Smith, Claudio Giugliemma, Michael Tangermann, Carmen Vidaurre, Febo
+  Cincotti, Andrea Kubler, Robert Leeb, et~al.
+\newblock Combining brain--computer interfaces and assistive technologies:
+  State-of-the-art and challenges.
+\newblock {\em Frontiers in Neuroscience}, 4:161, 2010.
+
+\bibitem{mason2007comprehensive}
+SG~Mason, A~Bashashati, M~Fatourechi, KF~Navarro, and GE~Birch.
+\newblock A comprehensive survey of brain interface technology designs.
+\newblock {\em Annals of biomedical engineering}, 35(2):137--169, 2007.
+
+\bibitem{millan2004brain}
+Jos{\'e} del~R Mill{\'a}n, Fr{\'e}d{\'e}ric Renkens, Josep Mouri{\~n}o, and
+  Wulfram Gerstner.
+\newblock Brain-actuated interaction.
+\newblock {\em Artificial Intelligence}, 159(1-2):241--259, 2004.
+
+\bibitem{nicolas2012brain}
+Luis~Fernando Nicolas-Alonso and Jaime Gomez-Gil.
+\newblock Brain computer interfaces, a review.
+\newblock {\em Sensors}, 12(2):1211--1279, 2012.
+
+\bibitem{amiri2013review}
+Setare Amiri, Reza Fazel-Rezai, and Vahid Asadpour.
+\newblock A review of hybrid brain-computer interface systems.
+\newblock {\em Advances in Human-Computer Interaction}, 2013:1, 2013.
+
+\bibitem{eliseyev2016penalized}
+Andrey Eliseyev and Tetiana Aksenova.
+\newblock Penalized multi-way partial least squares for smooth trajectory
+  decoding from electrocorticographic (ecog) recording.
+\newblock {\em PloS one}, 11(5):e0154878, 2016.
+
+\bibitem{gasanov2017pls}
+Motrenko~A. Gasanov~I.
+\newblock Creation of approximating scalogram description in a problem of
+  movement prediction.
+\newblock {\em Journal of Machine Learning and Data Analysis}, 3(2):160--169,
+  2017.
+
+\end{thebibliography}

@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Isachenko2017PLS_eng.aux
+The style file: splncs04.bst
+Database file #1: papers_pls.bib
+Warning--to sort, need author or key in neurotycho
+Warning--empty author in neurotycho
+Warning--empty journal in neurotycho
+Warning--empty year in neurotycho
+You've used 25 entries,
+            2850 wiz_defined-function locations,
+            760 strings with 9141 characters,
+and the built_in function-call counts, 14623 in all, are:
+= -- 1242
+> -- 379
+< -- 38
++ -- 160
+- -- 132
+* -- 931
+:= -- 1803
+add.period$ -- 33
+call.type$ -- 25
+change.case$ -- 140
+chr.to.int$ -- 0
+cite$ -- 29
+duplicate$ -- 1322
+empty$ -- 1297
+format.name$ -- 148
+if$ -- 3221
+int.to.chr$ -- 0
+int.to.str$ -- 25
+missing$ -- 254
+newline$ -- 81
+num.names$ -- 48
+pop$ -- 428
+preamble$ -- 1
+purify$ -- 114
+quote$ -- 0
+skip$ -- 468
+stack$ -- 0
+substring$ -- 943
+swap$ -- 798
+text.length$ -- 38
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 98
+warning$ -- 4
+while$ -- 132
+width$ -- 27
+write$ -- 264
+(There were 4 warnings)

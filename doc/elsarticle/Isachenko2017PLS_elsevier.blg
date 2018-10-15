@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Isachenko2017PLS_elsevier.aux
+The style file: elsarticle-num.bst
+Database file #1: papers_pls.bib
+Warning--I didn't find a database entry for "li2016feature"
+Warning--empty author in neurotycho
+Warning--empty journal in neurotycho
+Warning--empty publisher in box2015time
+You've used 24 entries,
+            2937 wiz_defined-function locations,
+            818 strings with 9087 characters,
+and the built_in function-call counts, 6736 in all, are:
+= -- 651
+> -- 201
+< -- 1
++ -- 83
+- -- 59
+* -- 483
+:= -- 935
+add.period$ -- 24
+call.type$ -- 24
+change.case$ -- 23
+chr.to.int$ -- 0
+cite$ -- 27
+duplicate$ -- 191
+empty$ -- 747
+format.name$ -- 74
+if$ -- 1710
+int.to.chr$ -- 0
+int.to.str$ -- 24
+missing$ -- 25
+newline$ -- 80
+num.names$ -- 23
+pop$ -- 131
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 420
+stack$ -- 0
+substring$ -- 484
+swap$ -- 29
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 63
+width$ -- 26
+write$ -- 193
+(There were 4 warnings)

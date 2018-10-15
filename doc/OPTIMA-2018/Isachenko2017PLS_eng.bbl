@@ -1,0 +1,128 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{neurotycho}
+Project tycho
+  \href{http://neurotycho.org/food-tracking-task}{http://neurotycho.org/food-tracking-task}
+
+\bibitem{abdi2003pls}
+Abdi, H.: {Partial Least Squares (PLS) Regression}. Encyclopedia for research
+  methods for the social sciences pp. 792--795 (2003).
+  \doi{http://dx.doi.org/10.4135/9781412950589.n690}
+
+\bibitem{amiri2013review}
+Amiri, S., Fazel-Rezai, R., Asadpour, V.: A review of hybrid brain-computer
+  interface systems. Advances in Human-Computer Interaction  \textbf{2013}, ~1
+  (2013)
+
+\bibitem{box2015time}
+Box, G.E., Jenkins, G.M., Reinsel, G.C., Ljung, G.M.: Time series analysis:
+  forecasting and control. John Wiley \& Sons (2015)
+
+\bibitem{de1993simpls}
+De~Jong, S.: Simpls: an alternative approach to partial least squares
+  regression. Chemometrics and intelligent laboratory systems  \textbf{18}(3),
+  251--263 (1993)
+
+\bibitem{eliseyev2016penalized}
+Eliseyev, A., Aksenova, T.: Penalized multi-way partial least squares for
+  smooth trajectory decoding from electrocorticographic (ecog) recording. PloS
+  one  \textbf{11}(5),  e0154878 (2016)
+
+\bibitem{frank1990npls}
+Frank, I.E.: {A nonlinear PLS model}. Chemometrics and Intelligent Laboratory
+  Systems  \textbf{8}(2),  109--119 (1990). \doi{10.1016/0169-7439(90)80128-S}
+
+\bibitem{gasanov2017pls}
+Gasanov~I., M.A.: Creation of approximating scalogram description in a problem
+  of movement prediction. Journal of Machine Learning and Data Analysis
+  \textbf{3}(2),  160--169 (2017)
+
+\bibitem{geladi1988pls}
+Geladi, P.: {Notes on the history and nature of partial least squares (PLS)
+  modelling}. Journal of Chemometrics  \textbf{2}(January),  231--246 (1988).
+  \doi{http://doi.wiley.com/10.1002/cem.1180020403},
+  \url{http://onlinelibrary.wiley.com/doi/10.1002/cem.1180020403/abstract}
+
+\bibitem{geladi1986partial}
+Geladi, P., Kowalski, B.R.: Partial least-squares regression: a tutorial.
+  Analytica chimica acta  \textbf{185},  1--17 (1986)
+
+\bibitem{hiden1998geneticpls}
+Hiden, H., McKay, B., Willis, M., Montague, G.: Non-linear partial least
+  squares using genetic. In: Genetic Programming 1998: Proceedings of the
+  Third. pp. 128--133. Morgan Kaufmann (1998)
+
+\bibitem{hoskuldsson1988plsr}
+H{\"{o}}skuldsson, A.: {PLS regression.} Journal of Chemometrics
+  \textbf{2}(August 1987),  581--591 (1988). \doi{10.1002/cem.1180020306}
+
+\bibitem{katrutsa2015qpfs}
+Katrutsa, A., Strijov, V.: Stress test procedure for feature selection
+  algorithms. Chemometrics and Intelligent Laboratory Systems  \textbf{142},
+  172--183 (2015)
+
+\bibitem{li2016feature}
+Li, J., Cheng, K., Wang, S., Morstatter, F., Trevino, R.P., Tang, J., Liu, H.:
+  Feature selection: A data perspective. arXiv preprint arXiv:1601.07996
+  (2016)
+
+\bibitem{mason2007comprehensive}
+Mason, S., Bashashati, A., Fatourechi, M., Navarro, K., Birch, G.: A
+  comprehensive survey of brain interface technology designs. Annals of
+  biomedical engineering  \textbf{35}(2),  137--169 (2007)
+
+\bibitem{millan2004brain}
+Mill{\'a}n, J.d.R., Renkens, F., Mouri{\~n}o, J., Gerstner, W.: Brain-actuated
+  interaction. Artificial Intelligence  \textbf{159}(1-2),  241--259 (2004)
+
+\bibitem{millan2010combining}
+Mill{\'a}n, J.d.R., Rupp, R., Mueller-Putz, G., Murray-Smith, R., Giugliemma,
+  C., Tangermann, M., Vidaurre, C., Cincotti, F., Kubler, A., Leeb, R., et~al.:
+  Combining brain--computer interfaces and assistive technologies:
+  State-of-the-art and challenges. Frontiers in Neuroscience  \textbf{4}, ~161
+  (2010)
+
+\bibitem{nicolas2012brain}
+Nicolas-Alonso, L.F., Gomez-Gil, J.: Brain computer interfaces, a review.
+  Sensors  \textbf{12}(2),  1211--1279 (2012)
+
+\bibitem{qin1992npls}
+Qin, S.J., McAvoy, T.J.: Nonlinear pls modeling using neural networks.
+  Computers \& Chemical Engineering  \textbf{16}(4),  379--391 (1992)
+
+\bibitem{rosipal2011npls}
+Rosipal, R.: {Nonlinear partial least squares: An overview}. Chemoinformatics
+  and Advanced Machine Learning Perspectives: Complex Computational Methods and
+  Collaborative Techniques pp. 169--189 (2011).
+  \doi{10.4018/978-1-61520-911-8.ch009},
+  \url{http://aiolos.um.savba.sk/{~}roman/Papers/npls{\_}book11.pdf{\%}5Cnpapers2://publication/uuid/55966E8F-2346-4326-B57E-3A1F47835189}
+
+\bibitem{rosipal2006overview}
+Rosipal, R., Kramer, N.: {Overview and Recent Advances in Partial Least
+  Squares}. C. Saunders et al. (Eds.): SLSFS 2005, LNCS 3940 pp. 34--51 (2006).
+  \doi{10.1007/11752790_2}
+
+\bibitem{wegelin2000survey}
+Wegelin, J.A., et~al.: A survey of partial least squares (pls) methods, with
+  emphasis on the two-block case. University of Washington, Department of
+  Statistics, Tech. Rep  (2000)
+
+\bibitem{wold1989nonlinear}
+Wold, S., Kettaneh-Wold, N., Skagerberg, B.: Nonlinear pls modeling.
+  Chemometrics and Intelligent Laboratory Systems  \textbf{7}(1-2),  53--65
+  (1989)
+
+\bibitem{yan2003geneticpls}
+Yan, X.F., Chen, D.Z., Hu, S.X.: {Chaos-genetic algorithms for optimizing the
+  operating conditions based on RBF-PLS model}. Computers and Chemical
+  Engineering  \textbf{27}(10),  1393--1404 (2003).
+  \doi{10.1016/S0098-1354(03)00074-7}
+
+\bibitem{zhang2003time}
+Zhang, G.P.: Time series forecasting using a hybrid arima and neural network
+  model. Neurocomputing  \textbf{50},  159--175 (2003)
+
+\end{thebibliography}
